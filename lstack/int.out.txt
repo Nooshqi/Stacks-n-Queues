@@ -1,0 +1,43 @@
+Starting Test Run
+1 % Okay
+2 % Okay
+3 % Okay
+4 % Okay
+5 % Okay
+6 % Okay
+7 % Okay
+8 % Okay
+9 % Okay
+10 % Okay
+11 % Okay
+12 % Okay
+13 % ->[ 19 10 21 ]->[ 11 12 23 14 15 26 27 28 ]->0
+14 % Okay
+15 % Okay
+16 % Okay
+17 % Okay
+18 % Okay
+19 % Okay
+20 % Okay
+21 % Okay
+22 % Okay
+23 % Okay
+24 % Okay
+25 % Okay
+26 % Okay
+27 % ->[ 11 ]->0
+28 % Okay
+29 % Okay
+30 % Okay
+31 % Okay
+32 % Okay
+33 % Okay
+34 % Okay
+35 % Okay
+36 % Okay
+37 % Okay
+38 % ->[ 11 12 ]->0
+39 % Okay
+40 % Memory allocated minus memory deallocated: 0
+41 % Okay
+Finishing Test Run
